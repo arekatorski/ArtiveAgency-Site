@@ -1,0 +1,99 @@
+body {
+  font-family: "NexaText", sans-serif;
+  font-weight: 600;
+  color: #aca9ae;
+  background-image: url("../img/tlo.png");
+  width: 100%;
+}
+
+.nav {
+  color: white;
+}
+.nav img {
+  width: 20%;
+}
+.nav ul {
+  margin-top: 10px;
+}
+
+.header {
+  padding-top: 25vh;
+}
+.header .h1 {
+  font-weight: 950;
+  font-size: 90px;
+}
+.header button {
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  background-image: linear-gradient(to right, #c3538f, #2b087e);
+  font-size: 20px;
+}
+.header button:hover {
+  background-image: none;
+  border: 1px solid #aca9ae;
+}
+
+.reviews {
+  margin-top: 40vh;
+}
+.reviews .h1 {
+  font-weight: 950;
+  font-size: 50px;
+}
+.reviews .review {
+  margin-top: 10px;
+  width: 30%;
+  height: 30vh;
+  padding: 25px;
+  margin: 10px;
+  border-width: 4px;
+  border-style: solid;
+  -o-border-image: linear-gradient(to right, #c3538f, #2b087e) 1;
+     border-image: linear-gradient(to right, #c3538f, #2b087e) 1;
+  margin-top: -5vh;
+}
+.reviews .review:first-child {
+  -o-border-image: linear-gradient(120deg, #c3538f, #2b087e) 1;
+     border-image: linear-gradient(120deg, #c3538f, #2b087e) 1;
+  margin-top: 5vh;
+}
+.reviews .review:last-child {
+  -o-border-image: linear-gradient(200deg, #c3538f, #2b087e) 1;
+     border-image: linear-gradient(200deg, #c3538f, #2b087e) 1;
+  margin-top: -12vh;
+}
+
+.about {
+  margin-top: 40vh;
+}
+.about img {
+  width: 20%;
+  margin: 3vh;
+}
+.about .h1 {
+  font-weight: 950;
+  font-size: 50px;
+  margin-bottom: 10vh;
+}
+
+.cooperations {
+  margin-top: 40vh;
+}
+.cooperations .h1 {
+  font-weight: 950;
+  font-size: 50px;
+  margin-bottom: 10vh;
+}
+.cooperations img {
+  width: 90%;
+  padding: 2vh;
+}
+
+footer {
+  margin-top: 40vh;
+  font-weight: 400;
+}/*# sourceMappingURL=style.css.map */
