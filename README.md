@@ -1,4 +1,4 @@
-# ArtiveAgency-Site
+# ArtiveAgency-(Prototype)
 Wersja nieostateczna. Wszelkie prawa zastrzeżone
 
 Strona realizowana dla własnego projektu - agencji interaktywnej.
